@@ -1,0 +1,9 @@
+{
+  "folderId": "b1gvmob95yysaplct532",
+  "analyze_specs": [{
+    "content": "iVBORw0KGgo...",
+    "features": [{
+      "type": "FACE_DETECTION"
+    }]
+  }]
+}
